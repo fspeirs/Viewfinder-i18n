@@ -1,0 +1,107 @@
+/*
+
+	########################################
+
+	Viewfinder for iPad Global Stylesheet
+	Created by Nik Fletcher, 24 May 2010
+	v1.0
+
+	########################################
+	Global Colours
+	########################################
+
+	Dark blue (header and links):	#080071
+							Text:	#222222
+						  Footer:	#737373
+
+	########################################
+
+*/
+
+body {
+	color: #222222;
+	font-family: "Lucida Grande", Lucida, sans-serif;
+	font-size: 0.9em;
+	text-align: justify;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+li {
+	margin: 15px 0 15px 0;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 30px;
+	color: #737373;
+	font-size: 0.9em;
+	font-style: italic;
+	font-family: Georgia, serif;
+
+}
+
+a {
+	color: #080071;
+	text-decoration: none;
+}
+
+/* First-run */
+
+.first-run {
+	padding: 20px;
+}
+
+
+h1 {
+	color: #080071;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+body.first-run ul,
+body.first-run ol {
+	padding-left: 50px;
+}
+
+body.first-run li {
+	margin-top: 12px;
+}
+
+/* Licences */
+
+.licences {
+	padding: 0;
+	margin: 0;
+}
+
+.header {
+	border-bottom: 1px solid #666666;
+	text-align: center;
+}
+
+.title {
+	font-size: 18px;
+	padding: 15px 5px 0 5px;
+	color: #080071;
+}
+
+.subtitle {
+	font-style: italic;
+	font-size: 13.5px;
+}
+
+.content {
+	padding: 10px 20px 10px 20px;
+}
+
+body.licences ul,
+body.licences ol {
+	padding: 0 10px 0 20px;
+}
+
+body.licences li {
+	margin: 12px 0 12px 0;
+}
