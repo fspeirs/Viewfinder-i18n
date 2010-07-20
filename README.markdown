@@ -21,3 +21,15 @@ There is a [mailing list to discuss any issues](http://lists.connectedflow.com/m
 1. Fork this project.
 2. Edit the language you want to work on.
 3. Send a pull request to [Fraser Speirs](http://github.com/fspeirs).
+
+## A note on Maps_1 and Maps_2 ##
+
+In Viewfinder, the same word is used in more than one place in the app. The comment should be enough to explain the context - if it's not, let me know.
+
+Any translation keys that end with an underscore and a digit are there to distinguish more than one usage of that word in the UI. For example, each photo has a "Map" item in the info popover that leads to a map of the photo's location.  In that map view, there's then a segmented control for the different map types and the first segment is titled "Map".
+
+In English, these different uses always end up being the same word but other languages may not.  It's OK if you end up with:
+
+> `"Map_1" = "Map"`
+> `"Map_2" = "Map"`
+
