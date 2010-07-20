@@ -9,7 +9,7 @@ There is a [mailing list to discuss any issues](http://lists.connectedflow.com/m
 * Chinese
 * Dutch
 * English - [Fraser Speirs](http://github.com/fspeirs)
-* French
+* French - [Cyril Godefroy](http://github.com/cgodefroy)
 * German
 * Italian
 * Japanese
