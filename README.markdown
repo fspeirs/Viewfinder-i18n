@@ -14,7 +14,7 @@ There is a [mailing list to discuss any issues](http://lists.connectedflow.com/m
 * Italian
 * Japanese
 * Russian
-* Spanish
+* Spanish - [Victor Jalencas](http://github.com/victor)
 
 ## How to Help ##
 
