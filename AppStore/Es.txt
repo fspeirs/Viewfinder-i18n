@@ -10,3 +10,12 @@ Features:
 - Launch the iPad Maps application with one touch to explore photo locations.
 - Incredible performance, even with large numbers of photos.
 - Customise the brightness of the thumbnail background.
+
+New in Viewfinder 1.1:
+
+- Support for video playback and download
+- Fully localized in English, French, Dutch, Spanish, Russian and Japanese.
+- Adjust the background brightness in the app
+- Viewfinder now downloads the original image from Flickr when on a WiFi network
+- The Map detail popover now supports all three types of Google map
+- Viewfinder is now more efficient at downloading large images

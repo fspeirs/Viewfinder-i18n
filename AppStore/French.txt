@@ -10,3 +10,12 @@ Fonctionnalités
 - Lancez l'application Plans pour explorer les lieux où sont pris les photos
 - Performance incroyable, même avec un grand nombre de photos
 - Choisissez la luminosité du fond de la table lumineuse
+
+New in Viewfinder 1.1:
+
+- Support for video playback and download
+- Fully localized in English, French, Dutch, Spanish, Russian and Japanese.
+- Adjust the background brightness in the app
+- Viewfinder now downloads the original image from Flickr when on a WiFi network
+- The Map detail popover now supports all three types of Google map
+- Viewfinder is now more efficient at downloading large images
