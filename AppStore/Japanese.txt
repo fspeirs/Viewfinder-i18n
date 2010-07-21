@@ -1,0 +1,12 @@
+Viewfinder is an amazing way to search, view and download photos from Flickr.com. Download photos into the Photos app on your iPad, then use them as your iPad wallpaper, lock screen or use them in Keynote, Pages and any app that uses the Photos application. Simply swipe and pinch to browse them full-screen.
+
+Features:
+
+- Search all 4 billion photos on Flickr.
+- Search for Creative Commons photos with specific licenses.
+- Download photos to the iPad Photos app, where allowed.
+- Swipe and pinch to browse photos full-screen.
+- Tap and hold on a photo to see additional information, including maps.
+- Launch the iPad Maps application with one touch to explore photo locations.
+- Incredible performance, even with large numbers of photos.
+- Customise the brightness of the thumbnail background.
