@@ -1,0 +1,21 @@
+Téléchargez Viewfinder est une manière extraordinaire de chercher, voir et télécharger des photos depuis flickr.com. Téléchargez des photos dans l'appli Photos sur votre iPad, puis utilisez les comme fond d'écran, écran verrouillé ou utilisez les dans Keynote, Pages et toutes les applications qui utilisent la librairie de Photos. Effleurez et pincez pour parcourir en plein écran.
+
+Fonctionnalités
+
+- Recherchez parmi plus de 4 milliards de photos sur flickr.com
+- Recherchez des photos avec des licences Creative Commons spécifiques (usage commercial, etc)
+- les photos dans l'appli Photos quand c'est autorisé
+- Effleurez et pincez pour parcourir en plein écran
+- Tapez et maintenez sur une photo pour voir plus d'infos, y compris le lieu dans Plans
+- Lancez l'application Plans pour explorer les lieux où sont pris les photos
+- Performance incroyable, même avec un grand nombre de photos
+- Choisissez la luminosité du fond de la table lumineuse
+
+New in Viewfinder 1.1:
+
+- Support for video playback and download
+- Fully localized in English, French, Dutch, Spanish, Russian and Japanese.
+- Adjust the background brightness in the app
+- Viewfinder now downloads the original image from Flickr when on a WiFi network
+- The Map detail popover now supports all three types of Google map
+- Viewfinder is now more efficient at downloading large images
