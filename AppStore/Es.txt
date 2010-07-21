@@ -1,21 +1,21 @@
-Viewfinder is an amazing way to search, view and download photos from Flickr.com. Download photos into the Photos app on your iPad, then use them as your iPad wallpaper, lock screen or use them in Keynote, Pages and any app that uses the Photos application. Simply swipe and pinch to browse them full-screen.
+Viewfinder es una fascinante manera de buscar, ver y descargar fotos desde Flickr.com. Descarga fotos a la aplicación Fotos de tu iPad, y úsalas como fondo de pantalla iPad, pantalla de bloqueo o úsalas en Keynote, Pages y cualquier app que use la aplicación Fotos. Simplemente, arrastra y pellizca con los dedos para verlas de un vistazo a toda pantalla.
 
-Features:
+Características:
 
-- Search all 4 billion photos on Flickr.
-- Search for Creative Commons photos with specific licenses.
-- Download photos to the iPad Photos app, where allowed.
-- Swipe and pinch to browse photos full-screen.
-- Tap and hold on a photo to see additional information, including maps.
-- Launch the iPad Maps application with one touch to explore photo locations.
-- Incredible performance, even with large numbers of photos.
-- Customise the brightness of the thumbnail background.
+- Busca por los 4 mil millones de fotos en Flickr.
+- Busca fotos con licencias concretas Creative Commons.
+- Descarga fotos a la app de Fotos, cuando esté permitido.
+- Arrastra y pelliza para visualizar fotos a toda pantalla.
+- Mantén pulsada una foto para ver información adicional, incluyendo mapas.
+- Abre la aplicación Mapas del iPad con un toque para explorar ubicaciones.
+- Rendimiento increíble, incluso con gran cantidad de fotos.
+- Personaliza el brillo del fondo de las miniaturas.
 
-New in Viewfinder 1.1:
+Novedades en Viewfinder 1.1:
 
-- Support for video playback and download
-- Fully localized in English, French, Dutch, Spanish, Russian and Japanese.
-- Adjust the background brightness in the app
-- Viewfinder now downloads the original image from Flickr when on a WiFi network
-- The Map detail popover now supports all three types of Google map
-- Viewfinder is now more efficient at downloading large images
+- Soporte para descarga y reproducción de vídeo.
+- Totalmente localizado al inglés, francés, holandés, español, ruso y japonés.
+- Ajusta el brillo de fondo en la aplicación.
+- Ahora Viewfinder descarga la imagen origial de Flickr si te hallas en una red WiFi.
+- El mapa detallado emergente ahora ofrece los tres tipos de mapa de 
+- Ahora Viewfinder es más eficiente al descargar imágenes grandes.
