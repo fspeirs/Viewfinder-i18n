@@ -1,21 +1,20 @@
-Viewfinder is an amazing way to search, view and download photos from Flickr.com. Download photos into the Photos app on your iPad, then use them as your iPad wallpaper, lock screen or use them in Keynote, Pages and any app that uses the Photos application. Simply swipe and pinch to browse them full-screen.
+Viewfinder - отличный способ поиска, просмотра и загрузки фото с Flickr.com. Загружайте фото в фотоприложение на своём iPad, затем используйте как обои, экранную заставку или в приложениях Keynote, Pages и любом другом приложении фото. Просмотр на полный экран лёгким движением.
 
-Features:
+Свойства:
 
-- Search all 4 billion photos on Flickr.
-- Search for Creative Commons photos with specific licenses.
-- Download photos to the iPad Photos app, where allowed.
-- Swipe and pinch to browse photos full-screen.
-- Tap and hold on a photo to see additional information, including maps.
-- Launch the iPad Maps application with one touch to explore photo locations.
-- Incredible performance, even with large numbers of photos.
-- Customise the brightness of the thumbnail background.
+- Поиск по 4 миллиардам фото на Flickr.
+- Поиск фото Creative Commons по конкретным лицензиям.
+- Загрузка разрешённых фото в приложение iPad Photos.
+- Просмотр на полный экран лёгким дыижением.
+- Щёлкнуть и удерживать фото для просмотра дополнительной инофрмации, включая карты.
+- Запуск приложения Карты iPad одним касанием с просмотром местоположения фото.
+- Высокопроизводительная работа даже с большим количеством фото.
+- Регулируемая яркость фоновых иконок.
 
-New in Viewfinder 1.1:
+Новое во Viewfinder 1.1:
 
-- Support for video playback and download
-- Fully localized in English, French, Dutch, Spanish, Russian and Japanese.
-- Adjust the background brightness in the app
-- Viewfinder now downloads the original image from Flickr when on a WiFi network
-- The Map detail popover now supports all three types of Google map
-- Viewfinder is now more efficient at downloading large images
+- Воспроизведение и загрузка видео
+- Регулируемая яркость фона приложения
+- Теперь Viewfinder загружает оригинальное изображение из Flickr в сети WiFi
+- Всплывающее окно Карты теперь поддерживает все три типа карт Google
+- Viewfinder теперь более эффективно загружает большие изображения
