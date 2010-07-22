@@ -6,7 +6,7 @@ There is a [mailing list to discuss any issues](http://lists.connectedflow.com/m
 
 ## Current Language Maintainers ##
 
-* Chinese
+* Chinese - [Fraser Speirs](http://github.com/fspeirs)
 * Dutch - [Vincent Driessen](http://github.com/nvie)
 * English - [Fraser Speirs](http://github.com/fspeirs)
 * French - [Cyril Godefroy](http://github.com/cgodefroy)
