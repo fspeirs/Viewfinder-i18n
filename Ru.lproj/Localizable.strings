@@ -47,31 +47,31 @@
 "Commercial Use"="Коммерческое использование";
 
 /* Row title in URLs section of popover for copying attribution text (photographer name and photo link) */
-"Copy Attribution Text"="Копировать текст определителя";
+"Copy Attribution Text"="Текст определителя";
 
 /* Row title in URLs section of popover for copying flic.kr URL */
-"Copy Flickr URL"="Копировать ссылку Flickr";
+"Copy Flickr URL"="Ссылка Flickr";
 
 /* Row title in URLs section of popover for copying large sized image URL */
-"Copy Large Image URL"="Копировать ссылку на большое изображение";
+"Copy Large Image URL"="Большое изображение";
 
 /* Row title in URLs section of popover for copying medium sized image URL */
-"Copy Medium Image URL"="Копировать ссылку на среднее изображение";
+"Copy Medium Image URL"="Среднее изображение";
 
 /* Row title in URLs section of popover for copying original sized image URL */
-"Copy Original Image URL"="Копировать ссылку на первоначальное изображение";
+"Copy Original Image URL"="Первоначальное изображение";
 
 /* Row title in URLs section of popover for copying small sized image URL */
-"Copy Small Image URL"="Копировать ссылку на маленькое изображение";
+"Copy Small Image URL"="Маленькое изображение";
 
 /* Alert title indicating that a video couldn't be played. */
-"Couldn't Play Movie"="Невозможно вопроизвести кино";
+"Couldn't Play Movie"="Невозможно воспр. кино";
 
 /* Alert title indicating that a video couldn't be saved. */
 "Couldn't Save Video"="Невозможно сохранить видео";
 
 /* Search option that restricts the search to images CC-licensed. */
-"Creative Commons"="Общетворческий";
+"Creative Commons"="Creative Commons";
 
 /* Search option that restricts the search to images CC-licensed for derivative works */
 "Derivative Works"="Производные работы";
