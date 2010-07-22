@@ -10,7 +10,7 @@ There is a [mailing list to discuss any issues](http://lists.connectedflow.com/m
 * Dutch - [Vincent Driessen](http://github.com/nvie)
 * English - [Fraser Speirs](http://github.com/fspeirs)
 * French - [Cyril Godefroy](http://github.com/cgodefroy)
-* German
+* German - [Chris Kau](http://github.com/chriskau)
 * Italian
 * Japanese - [Fraser Speirs](http://github.com/fspeirs)
 * Russian - [Fraser Speirs](http://github.com/fspeirs)
