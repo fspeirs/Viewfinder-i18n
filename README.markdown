@@ -22,6 +22,8 @@ There is a [mailing list to discuss any issues](http://lists.connectedflow.com/m
 2. Edit the language you want to work on.
 3. Send a pull request to [Fraser Speirs](http://github.com/fspeirs).
 
+PS: Due to merging difficulty, please don't edit the spreadsheet.
+
 ## A note on Maps_1 and Maps_2 ##
 
 In Viewfinder, the same word is used in more than one place in the app. The comment should be enough to explain the context - if it's not, let me know.
