@@ -1,0 +1,206 @@
+/* Segment title in Downloads popover indicating active downloads */
+"Active"="活动下载";
+
+/* License description for All Rights Reserved */
+"All Rights Reserved"="保留所有权利";
+
+/* Back button title. */
+"Back"="返回";
+
+/* Title in the Tools popover for the background colour slider. */
+"Background"="背景";
+
+/* Cancel button title. */
+"Cancel"="取消";
+
+/* Alert title indicating that the photo can't be downloaded because of permissions. */
+"Cannot Download"="无法下载";
+
+/* No comment provided by engineer. */
+"CC-BY"="CC-BY";
+
+/* No comment provided by engineer. */
+"CC-BY-NC"="CC-BY-NC";
+
+/* No comment provided by engineer. */
+"CC-BY-NC-ND"="CC-BY-NC-ND";
+
+/* No comment provided by engineer. */
+"CC-BY-NC-SA"="CC-BY-NC-SA";
+
+/* No comment provided by engineer. */
+"CC-BY-ND"="CC-BY-ND";
+
+/* No comment provided by engineer. */
+"CC-BY-SA"="CC-BY-SA";
+
+/* Button title for clearing the download history. */
+"Clear"="清除";
+
+/* Action sheet button confirming the command to clear history. */
+"Clear History"="清除历史下载";
+
+/* Action sheet title confirming that the user wishes to clear the download history. */
+"Clear History?"="清除历史下载？";
+
+/* Search option that restricts the search to images CC-licensed for commercial use */
+"Commercial Use"="商业使用";
+
+/* Row title in URLs section of popover for copying attribution text (photographer name and photo link) */
+"Copy Attribution Text"="复制属性文本";
+
+/* Row title in URLs section of popover for copying flic.kr URL */
+"Copy Flickr URL"="复制 Flickr 网址";
+
+/* Row title in URLs section of popover for copying large sized image URL */
+"Copy Large Image URL"="复制大图片网址";
+
+/* Row title in URLs section of popover for copying medium sized image URL */
+"Copy Medium Image URL"="复制中等图片网址";
+
+/* Row title in URLs section of popover for copying original sized image URL */
+"Copy Original Image URL"="复制原始图片网址";
+
+/* Row title in URLs section of popover for copying small sized image URL */
+"Copy Small Image URL"="复制小图片网址";
+
+/* Alert title indicating that a video couldn't be played. */
+"Couldn't Play Movie"="无法播放电影";
+
+/* Alert title indicating that a video couldn't be saved. */
+"Couldn't Save Video"="无法保存视频";
+
+/* Search option that restricts the search to images CC-licensed. */
+"Creative Commons"="知识共享 (Creative Commons)";
+
+/* Search option that restricts the search to images CC-licensed for derivative works */
+"Derivative Works"="演绎作品";
+
+/* Alert text confirming that the user wants to open a URL in Safari */
+"Do you want to open this URL in Safari?"="您希望在 Safari 中打开此网址吗？";
+
+/* Alert button title indicating that the user doesn't want to open a URL in Safari. */
+"Don't Open"="不要打开";
+
+/* Button title indicating Done. */
+"Done"="完成";
+
+/* Button title to initiate that the image will be downloaded to the Photos app. */
+"Download to Photos"="下载到 Photos";
+
+/* Button title indicating that a download has started. */
+"Downloading..."="正在下载...";
+
+/* Title for Downloads toolbar button */
+"Downloads"="下载";
+
+/* Alert message explaining that the video save failed because of some error. First parameter is the video title. */
+"Failed to save the video \"%@\" to the Photos app because: %@"="保存视频 \"%1$@\" 到 Photos 应用程序失败，原因：%2$@";
+
+/* Subtitle explaining the effect of turning on CC-licensing restrictions. */
+"Find Creative Commons licensed photos."="查找知识共享 (Creative Commons) 授权照片。";
+
+/* Subtitle explaining the effect of turning on the CC derivative works switch. */
+"Find photos that you can build on."="查找可以进行创作的照片";
+
+/* Subtitle explaining the effect of turning on CC-licensed commercial use option. */
+"Find photos to use commercially."="查找可商业使用的照片";
+
+/* Segment title in Downloads popover indicating download history */
+"History"="历史下载";
+
+/* Segment title indicating hybrid Google Map */
+"Hybrid"="混合";
+
+/* Popover table row leading to explanation of the photo license. */
+"License_1"="许可协议";
+
+/* Search options table section header for license restrictions. */
+"License_2"="许可协议";
+
+/* Title of the license inspector popover view. */
+"License_3"="许可协议";
+
+/* Text indicating that more images are loading */
+"Loading..."="正在加载...";
+
+/* Segment title indicating traditional Google Map type */
+"Map_1"="地图";
+
+/* Popover table row leading to a map view of the photo's location. */
+"Map_2"="地图";
+
+/* Sort ordering option indicating that photos will be sorted by Flickr's interestingness metric. */
+"Most Interesting"="最感兴趣";
+
+/* Sort ordering option indicating that photos will be sorted by most recently uploaded. */
+"Most Recent"="最近";
+
+/* Sort ordering option indicating that photos will be sorted by most relevant to the query. */
+"Most Relevant"="最相关";
+
+/* License description for 'No Known Restrictions' */
+"No Known Restrictions"="无已知限制";
+
+/* OK Button Title */
+"OK"="确定";
+
+/* Alert button title indicating that the user wants to open a URL in Safari. */
+"Open"="打开";
+
+/* Action sheet button label confirming that the user wants to open Maps */
+"Open Maps"="打开地图";
+
+/* Alert view title confirming that the user wants to open a tapped URL in Safari. */
+"Open URL?"="打开网址？";
+
+/* Text prompting the user to pull the view up to load more images. */
+"Pull up to load more..."="收起以加载更多...";
+
+/* Text informing the user that releasing the view will load more images. */
+"Release to load more..."="释放以加载更多...";
+
+/* Button title indicating Safari */
+"Safari"="Safari";
+
+/* Segment title indicating satellite map */
+"Satellite"="卫星";
+
+/* Button title indicating closing the options window and re-running the search */
+"Search"="搜索";
+
+/* Alert title explaining that the search failed because of some Flickr error */
+"Search Failed"="搜索失败";
+
+/* Title for the Search Options window. */
+"Search Options"="搜索选项";
+
+/* Text for the loading HUD indicating that a search is in progress. */
+"Searching..."="正在搜索...";
+
+/* Action sheet title asking the user if they want to switch to the Maps app */
+"Show this photo's location in Maps?"="在地图中显示此照片的位置？";
+
+/* Message explaining that the photo can't be downloaded because the owner doesn't allow it. */
+"Some photos cannot be downloaded as their owners do not allow them to be downloaded.\r\rTo use these photos, you will need to contact their respective owners for permission and access to the images."="一些照片无法下载，因为其所有者禁示其下载。\r\r要使用这些照片，您需要与其各自的所有者联系，以取得这些照片的许可和访问权限。";
+
+/* Search options table section header for sort options. */
+"Sort By"="排序依据";
+
+/* Table section header indicating that the user should tap a row to copy its contents. */
+"Tap a row to copy:"="点击一行以复制：";
+
+/* Alert text indicating that a movie couldn't be played. */
+"The movie couldn't be played. Please try again later."="该影片无法播放。请稍后再试。";
+
+/* Error explanation indicating that the video was not playable on iPad. */
+"The video was not compatible with iPad."="该视频不兼容 iPad。";
+
+/* License description for a US Government Work */
+"U.S. Govt. Work"="美国政府作品";
+
+/* Alert text explaining that the Flickr API call failed. */
+"Unable to search Flickr because"="无法搜索 Flickr 原因";
+
+/* Popover table row leading to a list of various URLs for the photo */
+"URLs"="网址";
