@@ -139,6 +139,9 @@
 /* Sort ordering option indicating that photos will be sorted by most relevant to the query. */
 "Most Relevant"="最も関連性が高い";
 
+/* Button title for moving to the next page of the introduction screen */
+"Next" = "Next";
+
 /* License description for 'No Known Restrictions' */
 "No Known Restrictions"="制限なし";
 
