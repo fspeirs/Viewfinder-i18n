@@ -1,21 +1,20 @@
-Viewfinder is an amazing way to search, view and download photos from Flickr.com. Download photos into the Photos app on your iPad, then use them as your iPad wallpaper, lock screen or use them in Keynote, Pages and any app that uses the Photos application. Simply swipe and pinch to browse them full-screen.
+Viewfinder 是一款优秀的照片搜索应用程序，用于从 Flickr.com 搜索、查看和下载照片。将照片下载到您的 iPad 上的 Photos 应用程序，然后即可将它们用作 iPad 壁纸、锁屏壁纸，或在 Keynote、Pages 以及任何使用 Photos 应用程序的应用程序中使用。只需划动和双指开合即可全屏浏览。 
 
-Features:
+功能： 
 
-- Search all 4 billion photos on Flickr.
-- Search for Creative Commons photos with specific licenses.
-- Download photos to the iPad Photos app, where allowed.
-- Swipe and pinch to browse photos full-screen.
-- Tap and hold on a photo to see additional information, including maps.
-- Launch the iPad Maps application with one touch to explore photo locations.
-- Incredible performance, even with large numbers of photos.
-- Customise the brightness of the thumbnail background.
+- 搜索 Flickr 上所有 40 亿张照片。 
+- 搜索含特定许可协议的知识共享 (Creative Commons) 照片。 
+- 下载许可照片到 iPad Photos 应用程序。 
+- 划动和双指开合即可全屏浏览照片。 
+- 在照片上点击不放可查看其他信息（包括地图）。 
+- 触摸一下即可启动 iPad 地图应用程序来浏览照片位置。 
+- 性能卓越，即便是处理海量照片。 
+- 可自定义缩略图背景的亮度。 
 
-New in Viewfinder 1.1:
+Viewfinder 1.1 新功能： 
 
-- Support for video playback and download
-- Fully localized in English, French, Dutch, Spanish, Russian and Japanese.
-- Adjust the background brightness in the app
-- Viewfinder now downloads the original image from Flickr when on a WiFi network
-- The Map detail popover now supports all three types of Google map
-- Viewfinder is now more efficient at downloading large images
+- 支持视频播放和下载 
+- 在应用程序中调节背景亮度 
+- Viewfinder 现在可在 WiFi 网络上从 Flickr 下载原始图片 
+- 地图详细信息悬浮层现在支持 Google 地图的所有三种类型 
+- Viewfinder 现在下载大图片更加高效
