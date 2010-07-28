@@ -172,6 +172,9 @@
 /* Button title indicating closing the options window and re-running the search */
 "Search"="搜索";
 
+/* Placeholder text for the search bar */
+"Search Flickr" = "Search Flickr";
+
 /* Alert title explaining that the search failed because of some Flickr error */
 "Search Failed"="搜索失败";
 
